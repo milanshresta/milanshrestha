@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on [ Not Now ] maybe in future
 - 📫 How to reach me milon.stha88@gmail.com
 
-I had my another github account which is not active now due to it's created using college mail and now I've no access to that, So
+I had my another github account which is not active now due to it's created using college mail and now I've no access to that, So I created this new account
 - link: https://github.com/shrestha-milan
 - website: https://shrestha-milan.github.io/
 <!---
