@@ -8,7 +8,7 @@ I had my another github account which is not active now due to it's created usin
 - link: https://github.com/shrestha-milan
 - website: https://shrestha-milan.github.io/
 <!---
-milanshresta/milanshresta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+milanshresta/milanshresta is a ✨ special ✨ repository because it's `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
