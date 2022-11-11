@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @milanshresta
+- 👋 Hi, I’m Milan Shrestha
 - 👀 I’m interested in UI/UX, Front-End Development
 - 🌱 I’m currently learning Frot-End Technologies
 - 💞️ I’m looking to collaborate with Flutter Developer 
