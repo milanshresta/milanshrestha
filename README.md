@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Milan Shrestha</h1>
-<h3 align="center">Product Designer by day / Learner by night</h3>
+<h1>Hi 👋, I'm Milan Shrestha</h1>
+<h3>Product Designer by day / Learner by night</h3>
 
 
 - 🌱 I’m currently learning **CSS3 & ES6**
