@@ -2,7 +2,7 @@
 <h3>Product Designer by day / Learner by night</h3>
 
 
-- 🌱 I’m currently learning **CSS3 & ES6**
+- 🌱 I’m currently practicing **Tailwind (CSS Framework) & ES6**
 - 🤝 I’m looking for help with **React/Data Structure**
 - 💬 Ask me about **Product Design/CSS3**
 - 📫 How to reach me **milon.stha88@gmail.com**
