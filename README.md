@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Milan Shrestha</h1>
-<h3>Product Designer by day / Learner by night</h3>
+<h3>Product Designer (UX/UI) by day / Learner by night</h3>
 
 
 - 🌱 I’m currently practicing **Tailwind (CSS Framework) & ES6**
 - 🤝 I’m looking for help with **React/Data Structure**
-- 💬 Ask me about **Product Design/CSS3**
+- 💬 Ask me about **Product Design(UX/UI)/CSS3**
 - 📫 How to reach me **milon.stha88@gmail.com**
 
 <h3 align="left">Connect with me</h3>
@@ -25,7 +25,3 @@
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
 </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/milanshrestha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="milanshrestha" /></a></p><br><br>
-
