@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Milan Shrestha</h1>
+<h1>Hi 👋 & Namaste 🙏, I'm Milan Shrestha</h1>
 <h3>Product Designer (UX/UI) by day / Learner by night</h3>
 
 
