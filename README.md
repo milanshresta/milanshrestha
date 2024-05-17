@@ -1,11 +1,11 @@
-<h1>Hi 👋 & Namaste 🙏, I'm Milan Shrestha</h1>
+<h1>Hello and Namaste, I'm Milan Shrestha</h1>
 <h3>Product Designer (UX/UI) by day / Learner by night</h3>
 
 
-- 🌱 I’m currently practicing **Tailwind (CSS Framework) & ES6**
-- 🤝 I’m looking for help with **React/Data Structure**
-- 💬 Ask me about **Product Design(UX/UI)/CSS3**
-- 📫 How to reach me **milon.stha88@gmail.com**
+- I’m currently practicing **Tailwind (CSS Framework) & ES6**
+- I’m looking for help with **React/Data Structure**
+- Ask me about **Product Design(UX/UI)/CSS3**
+- How to reach me **milon.stha88@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
